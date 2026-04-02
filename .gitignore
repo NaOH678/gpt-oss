@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# secrets
+.env
+
+checkpoints/
+outputs/
+data/
+*.pt
+*.bin
+*.safetensors
